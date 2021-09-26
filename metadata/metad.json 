@@ -1,0 +1,21 @@
+{
+    "name": "The Chainlink DevilTwo",
+    "description": "The Dare-Devil , This is the one and only Dare Devil of the chainlink with laser sharp  vsion",
+    "image": "https://ipfs.io/ipfs/QmaJHxoH5d7iUz4mLbTg6Gunh5ju2q3tH16NEbqq33zBRH?filename=kenshi.jpg",
+    "attributes": [
+        {
+            "trait_type": "Strength",  
+            "value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 10
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 10
+        }
+        
+    ]
+} 
+
